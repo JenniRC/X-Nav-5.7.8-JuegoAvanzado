@@ -1,0 +1,10 @@
+CACHE MANIFEST
+CACHE:
+images/mifondo.png
+images/mario.gif
+images/Bowser.png
+images/Peach.png
+images/planta.png
+js/game.js
+js/micanvas.js
+index.html
